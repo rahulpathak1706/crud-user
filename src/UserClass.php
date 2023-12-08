@@ -1,6 +1,6 @@
 <?php
 
-namespace crud\user;
+namespace TimePassCrud\user;
 
 class UserClass {
 
