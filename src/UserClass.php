@@ -1,6 +1,6 @@
 <?php
 
-namespace timePassCrud\user;
+namespace rp\user;
 
 class UserClass {
 
