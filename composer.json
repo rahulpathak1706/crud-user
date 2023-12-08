@@ -1,0 +1,19 @@
+{
+    "name": "crud/user",
+    "description": "it will crud",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Crud\\User\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rahul Pathak",
+            "email": "rahulsp@zignuts.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
