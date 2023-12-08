@@ -1,11 +1,11 @@
 {
-    "name": "TimePassCrud/user",
-    "description": "it will TimePassCrud",
+    "name": "time-pass-crud/user",
+    "description": "it will time-pass-crud",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "TimePassCrud\\User\\": "src/"
+            "time-pass-crud\\User\\": "src/"
         }
     },
     "authors": [
