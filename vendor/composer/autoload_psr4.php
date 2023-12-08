@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'time-pass-crud\\User\\' => array($baseDir . '/src'),
+    'timePassCrud\\User\\' => array($baseDir . '/src'),
 );
