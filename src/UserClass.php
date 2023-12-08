@@ -1,6 +1,6 @@
 <?php
 
-namespace rp\user;
+namespace rpcrud\user;
 
 class UserClass {
 

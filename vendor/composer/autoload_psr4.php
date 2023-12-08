@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'rp\\User\\' => array($baseDir . '/src'),
+    'rpcrud\\User\\' => array($baseDir . '/src'),
 );

@@ -1,11 +1,11 @@
 {
-    "name": "rp/user",
+    "name": "rpcrud/user",
     "description": "it will time-pass-crud",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "rp\\User\\": "src/"
+            "rpcrud\\User\\": "src/"
         }
     },
     "authors": [
